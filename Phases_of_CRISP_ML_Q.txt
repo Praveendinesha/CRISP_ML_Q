@@ -1,0 +1,26 @@
+#CRISP-ML-Q
+
+CRISP-ML, or the Cross-Industry Standard Process for Machine Learning Quality, is a framework or methodology used in the field of machine learning to 
+guide the development and deployment of machine learning models. It is used to ensure that machine learning projects are conducted in a systematic and quality-focused manner. 
+It has six phases, they are:
+
+1.Business Understanding (BU): 
+In this phase, you define the business problem you aim to solve with machine learning. 
+It involves 2 major key objectives they are BUSINESS OBJECTIVE AND BUSINESS CONSTRAINTS.
+
+2.Data Understanding (DU):
+Here, you gather and explore the data needed for the machine learning project. You assess data quality, structure, and availability.
+
+3.Data Preparation (DP):
+Data preprocessing and cleaning are performed in this phase. It includes tasks like feature selection, transformation, and dealing with missing data.
+
+4.Model Building (MB):
+In this phase, you select and train machine learning models based on the prepared data. Model selection, feature engineering, and hyperparameter tuning occur here.
+
+5.Model Deployment (MD):
+Once the model is trained and validated, it's deployed in a real-world environment. This phase considers scalability, integration, and deployment strategies.
+
+6.Model Monitoring and Maintenance (MM):
+After deployment, the model's performance is monitored, and regular maintenance is performed. This phase ensures that the model remains accurate and up-to-date.
+
+These six phases provide a structured approach to developing and deploying machine learning solutions while maintaining a focus on quality and business objectives.
