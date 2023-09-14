@@ -1,0 +1,33 @@
+#Business_Understanding
+It represents the initial step in a data science or machine learning project, where you aim to gain a deep understanding of the business problem or opportunity that you are trying to address. 
+
+Business understanding involves TWO KEY OBJECTIVES they are Business Objectives and Business Constraints.
+
+1) Business Objectives: 
+In the "Business Understanding" phase of a data science or machine learning project, defining the business objective is a critical step. 
+The business objective is a clear and concise statement that outlines what the organization aims to achieve through the project. 
+It serves as the guiding principle for the entire project and helps align data science efforts with the strategic goals of the business.
+
+EXAMPLES: 
+i.Increase Revenue: 
+  Develop a recommendation system that increases sales by X% within the next six months by suggesting relevant products to customers.
+
+ii.Enhance Customer Satisfaction: 
+  Build a sentiment analysis model to monitor customer feedback and improve customer satisfaction scores by X points over the next quarter.
+
+iii.Enhance Fraud Detection: 
+  Implement an anomaly detection system to reduce fraudulent transactions by X% over the next six months, protecting the organization and its customers.
+
+2) Business Constraints :
+Business constraints are limitations or restrictions that can impact the planning, execution, and success of a data science or machine learning project. 
+Identifying and understanding these constraints is a crucial part of the "Business Understanding" phase, as they can significantly influence project scope, feasibility, and resource allocation
+
+EXAMPLES:
+i.Budget Constraints: 
+  The project may be constrained by budget limitations, affecting the resources available for data acquisition, infrastructure, personnel, and tools.
+  Understanding the budget constraints is essential for making decisions about the project's scale and complexity.
+
+ii.Time Constraints:
+  Time constraints define the project's timeline and deadlines. These constraints can be driven by business needs, regulatory requirements, or market conditions. 
+  Failing to meet time constraints may have serious consequences for the business.
+
