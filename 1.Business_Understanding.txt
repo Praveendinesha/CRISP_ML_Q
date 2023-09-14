@@ -1,4 +1,4 @@
-#Business_Understanding
+__Business_Understanding__
 It represents the initial step in a data science or machine learning project, where you aim to gain a deep understanding of the business problem or opportunity that you are trying to address. 
 
 Business understanding involves TWO KEY OBJECTIVES they are Business Objectives and Business Constraints.
