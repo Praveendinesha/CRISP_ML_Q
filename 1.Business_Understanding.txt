@@ -3,7 +3,7 @@ It represents the initial step in a data science or machine learning project, wh
 
 Business understanding involves TWO KEY OBJECTIVES they are Business Objectives and Business Constraints.
 
-==================================1) Business Objectives:==============================
+================================== 1) Business Objectives: ==============================
 In the "Business Understanding" phase of a data science or machine learning project, defining the business objective is a critical step. 
 The business objective is a clear and concise statement that outlines what the organization aims to achieve through the project. 
 It serves as the guiding principle for the entire project and helps align data science efforts with the strategic goals of the business.
@@ -15,7 +15,7 @@ i.Increase Revenue:
 ii.Enhance Customer Satisfaction: 
   Build a sentiment analysis model to monitor customer feedback and improve customer satisfaction scores by X points over the next quarter.
 
-=================================2) Business Constraints :=============================
+================================= 2) Business Constraints :=============================
 Business constraints are limitations or restrictions that can impact the planning, execution, and success of a data science or machine learning project. 
 Identifying and understanding these constraints is a crucial part of the "Business Understanding" phase, as they can significantly influence project scope, feasibility, and resource allocation
 
@@ -30,7 +30,7 @@ ii.Time Constraints:
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-========================3.Success Criteria========================
+======================== 3.Success Criteria ========================
 We should record the success criteria before enters into te project for all Business, ML, Economic context.
 
 i. Business Success Criteria:
@@ -52,7 +52,7 @@ Failure Rate: The rate at which economic policies lead to negative economic cons
 
 5. Also it is recommended to use the DATA OPTIMIZATION TERMS. eg: Minimize, Maximize. 
 
-======================6.Project Charter================================
+====================== 6.Project Charter ================================
 This is the first document which gets prepared on any project.
 
 This contains detail at High level
